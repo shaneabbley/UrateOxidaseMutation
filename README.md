@@ -8,4 +8,6 @@ The first component lab report focused on the initial preparation for our mutati
 
 The second component saw us remove the hyperexpressed proteins from the competent cells. Afterwards, we performed several protein purification steps including affinity chromatography. We also tested the activity every step of the way. We were very successful at this point in the experiment and were prepared to characterize our mutation in component III.
 
+The final component was the culmination of this quarters work on our urate oxidase mutation. We characterized the mutation using Michaelis-Menten kinetics, we visualized the mutant and wild type enzyme in Pymol and we used these results to justify the effect the mutation has on the structure and function of the enzyme.
+
 I also included a small presentation I gave during class. This presentation focused on how we utilized computer-assisted sequence analysis during various projects in the class. I also describe historical and modern methods that computers use to perform these calculations.
