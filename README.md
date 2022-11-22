@@ -10,4 +10,6 @@ The second component saw us remove the hyperexpressed proteins from the competen
 
 The final component was the culmination of this quarters work on our urate oxidase mutation. We characterized the mutation using Michaelis-Menten kinetics, we visualized the mutant and wild type enzyme in Pymol and we used these results to justify the effect the mutation has on the structure and function of the enzyme.
 
+The UrateMassSpectroscopy folder contains a follow up experiment where we identified the presence of our mutation using two separate mass spectroscopy techniques (MALDI-TOF and ESI-TOF). There is a research poster also included in this folder, which we presented to professors, students, and other guests.
+
 I also included a small presentation I gave during class. This presentation focused on how we utilized computer-assisted sequence analysis during various projects in the class. I also describe historical and modern methods that computers use to perform these calculations.
