@@ -12,4 +12,6 @@ The final component was the culmination of this quarters work on our urate oxida
 
 The UrateMassSpectroscopy folder contains a follow up experiment where we identified the presence of our mutation using two separate mass spectroscopy techniques (MALDI-TOF and ESI-TOF). There is a research poster also included in this folder, which we presented to professors, students, and other guests.
 
+An experiment determining the assignments of allantoins nuclei using NMR is also included in the AllantoinNMRAnalysis folder. Although not focused on urate oxidase, we performed this experiment primarily on the final product of the urate oxidase metabolic pathway and thus I felt it prudent to include it here.
+
 I also included a small presentation I gave during class. This presentation focused on how we utilized computer-assisted sequence analysis during various projects in the class. I also describe historical and modern methods that computers use to perform these calculations.
