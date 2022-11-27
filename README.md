@@ -14,6 +14,8 @@ The UrateMassSpectroscopy folder contains a follow up experiment where we identi
 
 An experiment determining the assignments of allantoins nuclei using NMR is also included in the AllantoinNMRAnalysis folder. Although not focused on urate oxidase, we performed this experiment primarily on the final product of the urate oxidase metabolic pathway and thus I felt it prudent to include it here.
 
+An additional experiment where we performed conformational analysis on gamma amino-butyric acid and allantoin was added. This experiment, conformation analysis of allantoin and gaba, focused on running molecular mechanics simulations on the molecules of interest. In particular we performed a conformational search on gaba and a Monte Carlo simulation on allantoin.
+
 The EnzymeKineticsExperiment folder contains an experiment in which we attempted to develop a urate oxidase kinetics model. This model attempted to account for nonlinearity in the absorption spectrum. We also performed two experiments on glyceraldehyde-3-phosphate dehydrogenase in order to learn about it's mechanism.
 
 I also included a small presentation I gave during class. This presentation focused on how we utilized computer-assisted sequence analysis during various projects in the class. I also describe historical and modern methods that computers use to perform these calculations.
